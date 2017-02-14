@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Whitebloodcells" size="200.000000 103.022667" />
+    <ImageTarget name="thyroid_gland" size="200.000000 112.834221" />
+    <ImageTarget name="eye_scaled" size="200.000000 99.218750" />
+    <ImageTarget name="brain_scaled" size="200.000000 95.312500" />
+    <ImageTarget name="Humanheart_functioningJPG_scaled" size="200.000000 89.062500" />
+    <ImageTarget name="ear" size="200.000000 79.959305" />
+  </Tracking>
+</QCARConfig>
